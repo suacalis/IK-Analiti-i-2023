@@ -1,0 +1,91 @@
+﻿Numaranız;Cinsiyet;Doğum_Yılınız;Boy;Kilo;Ayakkabı_Numara;Göz;Saç;Doğum_Köy;Doğum_İlçe;Doğum_İl;Lise;Lise_ İlçe_İl;Üniversite_Puan;Sıralama;İl;Baba_Eğitim;Baba_Meslek;Anne_Eğitim;Anne_Meslek;Kardeş;Not_Ortalama
+1;Erkek;2001;176;62;39;Kahverengi ;Kumral;Pendik;Pendik;İstanbul;Güzeltepe Fevzi Çakmak Anadolu Lisesi;Çayırova/Kocaeli;295;1;Adem Yavuz Mahallesi/Gebze/Kocaeli;İlkokul;Baca Uzmanı;İlkokul;Ev Hanımı;1;2,18
+2;Erkek;1988;175;70;43;Kahverengi;Siyah;Arifbey Mahallesi;Adapazarı;Sakarya;Arifiye Çok Programlı Lisesi;Arifiye/Sakarya ;;;Arifbey Mahallesi/Arifiye/Sakarya;Lise;Emekli;İlkokul;Ev Hanımı;1;2,75
+3;Kadın;2002;167;50;39;Kahverengi ;Kahverengi;İnegöl ;İnegöl ;Bursa;Nuh Mehmet Küçükçalık Anadolu Lisesi ;İnegöl/Bursa;273;1;Mesudiye/İnegöl/Bursa ;Ortaokul;Berber ;İlkokul;Ev Hanımı;1;2,95
+4;Kadın;2002;158;47;37;Kahverengi;Kahverengi;Şirinköyü;Gölcük ;Kocaeli;Osmangazi Mesleki ve Teknik Anadolu Lisesi;Hendek/Sakarya;272,02835;4;Sarıdede Mahallesi/Hendek/Sakarya;Ortaokul;İşçi;Ortaokul;İşçi;2;2
+5;Kadın;2001;157;38;36;Yeşil ;Siyah;Hendek;Hendek;Sakarya;Hacı Zehra Akkoç Kız Anadolu Lisesi;Adapazarı/Sakarya;325;4;Hızırtepe Mahallesi/Adapazarı/Sakarya ;İlkokul;Emekli;Ortaokul;Ev Hanımı;5;2,76
+6;Kadın;2002;163;50;38;Kahverengi ;Kahverengi;Çınarlı Mahallesi ;Derince;Kocaeli;Körfez Oruç Reis Anadolu Lisesi;Körfez/Kocaeli;;432 bin;Çınarlı Mahellesi/Derince/Kocaeli ;Üniversite;Bakım Süpervizörü ;Lise;Ev Hanımı;2;3,35
+7;Kadın;2001;160;50;36;Kahverengi;Kahverengi;Kartal;Kartal;İstanbul ;Sultanbeyli Anadolu Lisesi;Sultanbeyli/İstanbul;300;4;Adil Mahallesi/Sultanbeyli/İstanbul;İlkokul;Kaynakçı;Önlisans;Estetisyen;1;1,9
+8;Kadın;2000;168;50;38;Ela;Kahverengi;Nurtepe;Kağıthane;İstanbul;Profilo Mesleki ve Teknik Anadolu Lisesi;Kağıthane/İstanbul;;;Kulaksız/Beyoğlu/İstanbul ;Ortaokul;Şoför;Lise;Yardımcı Sağlık Personeli;1;2,35
+9;Kadın;2001;153;50;37;Kahverengi ;Kahverengi;İncirköy Mahallesi ;Beykoz ;İstanbul;Beykoz Boğaziçi Anadolu İmam Hatip Lisesi ;Beykoz/İstanbul ;;2;İncirköy Mahallesi/Beykoz/İstanbul ;Ortaokul;Emekli;Ortaokul;Ev Hanımı;1;2,68
+10;Erkek;2001;174;51;37;Mavi;Sarı;Alandüzü Mahallesi;Adapazarı;Sakarya;Adapazarı Mesleki ve Teknik Anadolu Lisesi;Adapazarı/Sakarya;267,05281;78;Alandüzü Mahallesi/Adapazarı/Sakarya;Lise;Memur;İlkokul;Ev Hanımı;1;2,84
+11;Kadın;2002;165;50;38;Kahverengi;Kumral;Cumhuriyet Mahallesi ;Adapazarı;Sakarya;Vali Mustafa Büyük Kız Anadolu İmam Hatip lisesi ;Adapazarı/Sakarya;420;42;Cumhuriyet Mahallesi/Adapazarı/Sakarya;Ortaokul;Serbest Meslek;Lise;Ev Hanımı;3;1,95
+12;Kadın;2000;165;75;38;Yeşil;Siyah;Osmangazi;Osmangazi;Bursa;Aziz Sancar Anadolu lisesi ;Artuklu/Mardin;315;84;Safa Mahallesi/Savur/Mardin ;Lise;Sekreter;İlkokul;Ev Hanımı;2;2,1
+13;Kadın;2001;163;70;37;Koyu Kahverengi;Siyah;Sultançiftliği Mahallesi ;Sultangazi ;İstanbul ;Eyüp Anadolu Kız İmam Hatip Lisesi ;Eyüp/İstanbul;275;11;Sultançiftliği Mahallesi/Sultangazi/İstanbul ;İlkokul;Kasap;İlkokul;Ev Hanımı;3;2,41
+14;Kadın;2000;165;59;39;Kahverengi;Kumral;Kültür Mahallesi;Merkez;Düzce;Düzce 15 Temmuz Şehitler Anadolu Lisesi;Merkez/Düzce;272,44569;429.938;Kiremitocağı Mahallesi/Düzce/Merkez;Lise;Emekli;Lisans;Öğretmen;2;2,77
+15;Kadın;2001;168;48;36;Kahverengi;Kahverengi;Bakırköy;Bakırköy;İstanbul;Öğrenciden Armağan Anadolu Lisesi;Başakşehir/İstanbul;;;Başakşehir/İstanbul;Yüksek Lisans;Pazarlama;Lisans;Ev Hanımı;3;3,3
+16;Kadın;2002;161;48;37;Siyah;Siyah;Sapanca ;Adapazarı;Sakarya;Sapanca Anadolu Lisesi;Sapanca/Sakarya;314,81262;234.756;Sapanca/Sakarya;İlkokul;Bekçi;İlkokul;Ev Hanımı;2;3,42
+17;Kadın;2001;165;58;38;Kahverengi ;Kahverengi;Nene Hatun Mahallesi ;Bakırköy ;İstanbul ;İbrahim Turhan Mesleki ve Teknik Anadolu Lisesi ;Esenler/İstanbul;370;300 bin;Esenler/İstanbul;Ortaokul;Serbest Meslek;İlkokul;Ev Hanımı;3;2,4
+18;Kadın;2001;165;51;38;Kahverengi ;Kestane;Durucu Geçidi;Şahinbey;Gaziantep;Oğuzeli Anadolu Lisesi;Oğuzeli/Gaziantep;;;Kurtuluş Mahallesi/Oğuzeli/Gaziantep;İlkokul;Emekli;İlkokul;İşçi ;2;2,77
+19;Kadın;2001;167;70;38;Kahverengi ;Kahverengi;Basri Mahallesi;Polatlı;Ankara;Duatepe Anadolu Lisesi;Polatlı/Ankara;318,44269;222330;Basri Mahallesi/Polatlı/Ankara;Lise;İşçi;İlkokul;Ev Hanımı;3;3,48
+20;Kadın;2002;160;53;38,5;Kahverengi ;Siyah;75. Yıl Cumhuriyet Mahallesi;Kemalpaşa;İzmir;Cahit Gönlübol Sağlık Meslek Lisesi;Turgutlu/Manisa;250;34;Kemalpaşa/İzmir;İlkokul;Emekli;İlkokul;Sağ Değil;2;2,9
+21;Erkek;2002;180;90;42;Kahverengi ;Siyah;Süleymanpaşa;Merkez;Tekirdağ;Cemile Yeşil Anadolu Lisesi;Çorlu/Tekirdağ;273,64267;422818;Yeşiltepe/Ergene/Tekirdağ;Lise;Ustabaşı;Ortaokul;Sağ Değil;0;2,63
+22;Kadın;2001;160;48;38;Kahverengi ;Kahverengi;;Derince;Kocaeli;Çamlıtepe Mesleki ve Teknik Anadolu Lisesi;Körfez/Kocaeli;285,58276;17;Fatih Mahallesi/Körfez/Kocaeli;Ortaokul;İşçi;İlkokul;Ev Hanımı;3;2,84
+23;Kadın;2001;164;47;38;Koyu Kahverengi;Koyu Kahverengi;Osmangazi;Osmangazi;Bursa;Yıldırım İMKB Mesleki ve Teknik Anadolu Lisesi;Yıldırım/Bursa;271,61267;5;Yıldırım/Bursa;Lise;Şoför;İlkokul;Ev Hanımı;2;2,82
+24;Kadın;2001;158;48;39;Mavi;Sarı;Maltepe;Adapazarı;Sakarya;Boğaziçi Koleji;Adapazarı/Sakarya;350;300.000;Serdivan/Sakarya;Lise;Emekli;Lise;Yönetici;3;1,78
+25;Erkek;2002;180;72;42;Kahverengi;Siyah;Yenidoğan Mahallesi ;Adapazarı;Sakarya;Açık Öğretim Lisesi;Çankaya/Ankara;288;459.000;Yenigün Mahallesi/Adapazarı/Sakarya;Lise;Serbest Meslek;İlkokul;Ev Hanımı;1;2,92
+26;Kadın;2001;170;58;38;Kahverengi;Kahverengi;Göztepe;Kadıköy;İstanbul;Maltepe Birey Temel Lisesi;Maltepe/İstanbul ;290;409.000;Bağlarbaşı Mahallesi/Maltepe/İstanbul;Ortaokul;Bağlama Ustası;Lise;Bebek Bakımı;1;3,25
+27;Kadın;2000;158;45;36;Kahverengi;Kahverengi;Merkez;Adapazarı;Sakarya;Özel Altınküre Temel Lisesi;Adapazarı/Sakarya;;;Bağlar Mahallesi/Erenler/Sakarya;Ortaokul;Emekli;Lisans;Hemşire;3;2,01
+28;Kadın;2000;172;58;38;Kahverengi;Siyah;İstanbul;Ümraniye ;İstanbul ;Çekmeköy Mehmetçik Anadolu Lisesi;Çekmeköy/İstanbul;301;19;Çekmeköy/İstanbul;Lise;Serbest Meslek;İlkokul;Ev Hanımı;3;2,4
+29;Kadın;2002;152;47;34;Kahverengi;Kahverengi;Gebze;Gebze;Kocaeli;Ülkün Yalçın Anadolu Lisesi;Darıca/Kocaeli;315;1;Çerkeşli Mahallesi/Dilovası/Kocaeli;İlkokul;İşçi;İlkokul;Ev Hanımı;1;3,49
+30;Kadın;2000;156;47;36;Kahverengi;Kestane;Ozanlar;Adapazarı;Sakarya;Sakarya Anadolu Lisesi;Serdivan/Sakarya;291,5961;;Yenigün Mahallesi/Adapazarı/Sakarya;Lise;Şoför;Ortaokul;Ev Hanımı;2;2,32
+31;Erkek;2002;172;57;38;Kahverengi;Sarı;Yenidoğan Mahallesi ;İzmit;Kocaeli;Tevfîk Seno Arda Anadolu Lisesi;İzmit/Kocaeli;225;438000;Yenidoğan Mahallesi/İzmit/Kocaeli ;Lise;Emekli;Lise;Ev Hanımı;2;2,29
+32;Kadın;2002;157;70;38;Kahverengi;Kumral;Yenimahalle;Hendek;Sakarya;Atike Hanım Anadolu Lisesi;Hendek/Sakarya;287,52106;;Yeni Mahalle/Hendek/Sakarya;Lise;Emekli;Lise;Ev Hanımı;1;2,68
+33;Erkek;2000;173;64;39;Yeşil;Kahverengi;Gaziosmanpaşa;Gaziosmanpaşa;İstanbul;Final Temel Lisesi;Gaziosmanpaşa/İstanbul;;;Eyüp/İstanbul;İlkokul;İşçi;Ortaokul;Ev Yardımcısı;1;3,31
+34;Kadın;2000;172;52;38;Kahverengi;Kahverengi;Çay Mahallesi;Merkez;Düzce;Atatürk Anadolu Lİsesi;Merkez/Düzce;286;351167;Çay Mahallesi/Merkez/Düzce;İlkokul;Emekli;İlkokul;Emekli;2;3,07
+35;Kadın;1998;170;69;41;Kahverengi;Kumral;Beşköprü;Serdivan;Sakarya;Şenpiliç Mesleki ve Teknik Anadolu Lisesi ;Erenler/Sakarya;255,69206;3;Beşköprü Mahallesi/Serdivan/Sakarya;İlkokul;Tesisatçı ;Lise;Ev Hanımı;1;2,48
+36;Kadın;2001;172;50;37;Kahverengi;Kumral;Doğan Mahallesi;İzmit;Kocaeli;Yenikent Anadolu Lisesi;Derince/Kocaeli;;;İzmit/Kocaeli;Ortaokul;Emekli;Ortaokul;Ev Hanımı;2;2,42
+37;Kadın;2002;167;57;38;Kahverengi;Kahverengi;Kartal ;Kartal;İstanbul ;Velibaba Çok Programlı Anadolu Lisesi;Pendik/İstanbul ;258;500000;Merkez/Bolu;İlkokul;Şoför;İlkokul;Ev Hanımı;2;3,09
+38;Kadın;2001;160;43;36;Yeşil;Sarı;Çanakça Mahallesi;Çatalca;İstanbul;Çatalca Sınav Lisesi;Çatalca/İstanbul;273;437692;Çanakça/Çatalca/İstanbul;İlkokul;Çiftçi;Ortaokul;Çiftçi;2;2,59
+39;Kadın;2001;160;50;36;Ela;Siyah;Akıncı Mahallesi;Kandıra;Kocaeli;Yahya Kaptan Anadolu Lisesi;İzmit/Kocaeli;267,65;11;Serdivan/Sakarya;Ortaokul;Emekli;Ortaokul;Ev Hanımı;4;1,68
+40;Kadın;2002;163;80;39;Ela;Kumral;Merkez;İzmit;Kocaeli;Başiskele Anadolu Lisesi;Başiskele/Kocaeli;268,11027;12;İzmit/Kocaeli;Lise;Emekli;Lise;Emekli;1;2,36
+41;Kadın;2000;163;65;38;Kahverengi;Kahverengi;İstanbul;Şişli;İstanbul;Mehmet Ali Büyükhanlı Mesleki ve Teknik Lisesi;Beşiktaş/İstanbul;270;350000;Sanayi Mahallesi/Kağıthane/İstanbul;Lise;Emekli;İlkokul;Ev Hanımı;6;2,32
+42;Kadın;2000;160;55;37;Mavi;Kumral;Atatürk Mahallesi ;Küçükçekmece;İstanbul ;Gülten Özaydın Lisesi;Küçükçekmece/İstanbul;267;459808;Fevzi Çakmak Mahallesi/Küçükçekmece/İstanbul;Ortaokul;Emekli;Ortaokul;Ev Hanımı;3;2,04
+43;Kadın;2001;168;58;39;Kahverengi;Siyah;Trabzon ;Araklı;Trabzon;Araklı Mehmet Akif Ersoy Anadolu Lisesi;Araklı/Trabzon;231;13;Yolgören Mahallesi/Araklı/Trabzon;Ortaokul;Emekli;Lise;Ev Hanımı;4;2,31
+44;Erkek;2001;183;80;43;Kahverengi;Kahverengi;Merkez;Eskişehir;Eskişehir ;Karamürsel Alp Anadolu Lisesi;Karamürsel/Kocaeli;300;280bin;Topçular Mahallesi/Gölcük/Kocaeli;Lise;İşçi;Lise;Ev Hanımı;1;3,15
+45;Kadın;2002;167;59;38;Kahverengi;Kumral;Pendik ;Pendik;İstanbul;Tarık Buğra Anadolu Lisesi;Pendik/İstanbul;297,46333;302740;Orhangazi Mahallesi/Pendik/İstanbul;İlkokul;Emekli;İlkokul;Ev Hanımı;5;2,69
+46;Kadın;2002;164;78;37;Ela;Siyah;Yörükler Mahallesi;Adapazarı;Sakarya;Geyve Anadolu Lisesi;Geyve/Sakarya;;;Yörükler Mahallesi/Geyve/Sakarya;İlkokul;Hizmetli;Lise;Çocuk Bakıcısı;1;2,3
+47;Kadın;2001;158;62;39;Kahverengi;Siyah;Kartal;Kartal;İstanbul;Orhangazi Anadolu Lisesi;Maltepe/İstanbul ;;;Maltepe/İstanbul;İlkokul;Pompacı;İlkokul;Temizlik Görevlisi;2;2,47
+48;Kadın;2001;150;47;36;Kahverengi;Kahverengi;Suadiye;Kartepe;Kocaeli;Pirelli Anadolu Lisesi;Köseköy/Kocaeli;;;Suadiye/Kartepe/Kocaeli;Lise;İşçi;Ortaokul;Ev Hanımı;2;2,08
+49;Kadın;2002;158;48;37;Kahverengi;Kızıl;Pendik;Pendik;İstanbul;Alparslan Anadolu Lisesi;Kaynarca/İstanbul;;;Velibaba Mahallesi/Pendik/İstanbul;;Serbest Meslek;;Serbest Meslek;3;2,55
+50;Kadın;1999;167;54;37,5;Kahverengi;Kahverengi;Mollakasım;Yeşilyurt;Malatya;Malatya Mesleki ve Teknik Anadolu Lisesi;Battalgazi/Malatya;283;18;Emniyetevler Mahallesi/Kağıthane/İstanbul;Lise;Emekli;Lisans;Öğretmen;1;2,21
+51;Kadın;2002;158;50;38;Açık Kahverengi;Siyah;Hatane;Adapazarı;Sakarya;Zehra Akkoç Kız Anadolu Lisesi;Adapazarı/Sakarya;277,04812;29;Şeker Mahallesi/Adapazarı/Sakarya;Üniversite;Öğretmen;Ortaokul;Ev Hanımı;3;3,33
+52;Kadın;2001;163;53;38;Ela;Sarı;Merkez ;Merkez;Sakarya;Şenpiliç Mesleki ve Teknik Anadolu Lisesi;Erenler/Sakarya;295;313.219;Erenler/Sakarya;Lise;Şoför;Ortaokul;Ev Hanımı;1;2,75
+53;Kadın;2001;162;46;37;Kahverengi;Sarı;Kamışlı;Erenler;Sakarya;Yunus Emre Anadolu Lisesi;Camili/Sakarya;305,13517;4;Karaman/Sakarya;Ortaokul;;Ortaokul;Emekli;1;2,2
+54;Kadın;1999;160;50;39;Kahverengi;Kahverengi;Bekirdere;İzmit;Kocaeli;Nuh Çimento Mesleki ve Teknik Anadolu Lisesi;İzmit/Kocaeli;267,67722;1;Bekirdere/İzmit/Kocaeli;İlkokul;Emekli;İlkokul;Ev Hanımı;1;3,04
+55;Erkek;1999;180;80;43;Ela;Siyah;;Merkez;Düzce;Cumhuriyet Anadolu Lisesi;Şıralık/Düzce;300;31;Kemalpaşa Mahallesi/Serdivan/Sakarya;Lise;Esnaf;Lise;İşçi;1;1,95
+56;Erkek;2000;175;62;41;Kahverengi;Kahverengi;İhsaniye;Gölcük;Kocaeli;Başiskele Anadolu Lisesi;Başiskele/Kocaeli;;;Barbaros Mahallesi/Başiskele/Kocaeli;Lise;Robot Operatörü;İlkokul;Ev Hanımı;1;2,52
+57;Kadın;2001;156;58;36;Kahverengi;Kahverengi;;Kartal;İstanbul ;Sultanbeyli Kız Anadolu İmam Hatip Lisesi ;Sultanbeyli/İstanbul;;;Hasanpaşa Mahallesi/Sultanbeyli/İstanbul;İlkokul;Ayakkabıcı;İlkokul;Ev Hanımı;4;2,61
+58;Kadın;2001;165;62;37;Yeşil ;Kahverengi;Paşabahçe ;Beykoz;İstanbul ;Nazmi Arıkan Fen Bilimleri Anadolu Lisesi ;Beykoz/İstanbul ;290;380.000;Beykoz/İstanbul;Lise;Güvenlik Görevlisi ;Ortaokul;Ev Hanımı;2;2,32
+59;Kadın;2001;160;60;36;Kahverengi;Koyu Kumral;Taşlıca;Reşadiye;Tokat;Deniz Yıldızları Mesleki ve Teknik Anadolu Lisesi;Darıca/Kocaeli;;24;Kazım Karabekir Mahallesi/Darıca/Kocaeli;İlkokul;İşçi;İlkokul;İşçi;2;2,63
+60;Kadın;2002;170;55;39;Yeşil;Kumral;Maltepe Mahallesi ;Serdivan;Sakarya;Adamektep Anadolu Lisesi;Serdivan/Sakarya;256,678;7;32 Evler Mahallesi/Serdivan/Sakarya;Üniversite;İnşaat Teknikeri;Lise;Ev Hanımı;4;2,53
+61;Kadın;2001;160;48;36,5;Kahverengi;Kahverengi;İzmit;İzmit;Kocaeli;Barboros Hayrettin Anadolu Lisesi;Gölcük/Kocaeli;261,23815;501;Çiflik Mahallesi/Gölcük/Kocaeil;Ortaokul;Kaynakçı;İlkokul;Hademe;2;2,49
+62;Erkek;2002;173;60;39;Kahverengi;Kumral;İstanbul;Kartal;İstanbul;Kurtköy Anadolu Lisesi;Kurtköy/İstanbul;;2;Pendik/İstanbul;Lise;Makine Operatörü;Lise;Ev Hanımı;2;2,5
+63;Kadın;2000;150;43;36;Kahverengi;Kahverengi;Kanarya Mahallesi;Küçükçekmece ;İstanbul ;Uludağ Temel Lisesi;Osmangazi/Bursa ;;64;Güzelyalı/Mudanya/Bursa;Lise;;Lise;Emekli;3;2,55
+64;Kadın;2002;155;58;38;Kahverengi;Kahverengi;Oğuzyolu Köyü;Hanak;Ardahan;Serdivan Anadolu Lisesi;Serdivan/Sakarya;275;400;Vatan Mahallesi/Serdivan/Sakarya;İlkokul;Emekli;İlkokul;Ev Hanımı;5;2,23
+65;Kadın;2002;163;57;39;Açık Kahverengi;Kumral;Palu;Palu ;Elazığ ;Kovancılar Anadolu Lisesi;Kovancılar/Elazığ ;287;404 bin;Kovancılar/Elazığ ;Lise;Makine Operatörü;Ortaokul;Ev Hanımı;2;2,87
+66;Kadın;2001;163;70;39;Kahverengi;Kahverengi;Pendik;Pendik;İstanbul;Orhangazi Anadolu lilsesi;Maltepe/İstanbul ;270;59;Bağlarbaşı Mahallesi/Maltepe/İstanbul;Lise;Forklift Operatörü;Lise;Perdeci;1;2,4
+67;Kadın;2001;167;52;37;Kahverengi;Kahverengi;Akarca Mahallesi;Hendek;Sakarya;Serdivan Anadolu Lisesi;Serdivan/Sakarya;277;402741;Akarca Mahallesi/Hendek/Sakarya;İlkokul;Kaynakçı;İlkokul;Ev Hanımı;1;2,56
+68;Kadın;1999;163;53;38;Kahverengi;Bakır;Bakırköy;Bakırköy;İstanbul;Çankaya 100.Yıl Mesleki ve Teknik Anadolu Lisesi;Çankaya/Ankara;274,95;415.195;Esentepe/Körfez/Kocaeli;Ortaokul;Elektrik Ustası;Ortaokul;İşçi;4;3,11
+69;Kadın;2000;163;65;38;Koyu Kahverengi;Koyu Kahverengi;Cennet Mahallesi ;Fatih ;İstanbul;Hacı Zehra Akkoç Kız Anadolu Lisesi;Adapazarı/Sakarya;268;395836;32 Evler Mahallesi/Serdivan/Sakarya;İlkokul;Emekli;İlkokul;Ev Hanımı;1;1,91
+70;Kadın;2002;161;63;38;Kahverengi ;Kumral;Yenimahalle;Bakırköy ;İstanbul ;Bahçeşehir İMKB Mesleki ve Teknik Anadolu Lisesi;Başakşehir/İstanbul ;227;220;İnönü Mahallesi/Esenyurt/İstanbul ;Ortaokul;Makine Operatörü;Ortaokul;Makine Operatörü ;1;2,4
+71;Kadın;2001;155;58;38;Kahverengi ;Kahverengi;Yukarı Kirazca Mahallesi;Adapazarı;Sakarya;Şehit Muhammed Fatih Safitürk Anadolu Lisesi;Arifiye/Sakarya;275;356000;Yukarı Kirazca Mahallesi/Arifiye/Sakarya;Üniversite;Öğretmen;İlkokul;Ev Hanımı;1;2,48
+72;Kadın;2002;162;60;37,5;Kahverengi ;Kahverengi;Hacettepe;Altındağ;Ankara;Hacı Zehra Akkoç Kız Anadolu Lisesi;Adapazarı/Sakarya;;;Korucuk/Adapazarı/Sakarya;Lise;İşçi;Ortaokul;Ev Hanımı;3;2,3
+73;Kadın;2001;163;43;37;Kahverengi ;Kahverengi;Tepekkum Mahallesi;Adapazarı;Sakarya;Vali Mustafa Cahit Kıraç Anadolu Lisesi;Erenler/Sakarya;273,10424;47;Tepekum Mahallesi/Adapazarı/Sakarya;Lise;Makine Teknisyeni;Ortaokul;Ev Hanımı;1;2,82
+74;Kadın;2000;165;48;36;Kahverengi ;Siyah;Süleymaniye Mahallesi ;İnegöl ;Bursa;Toki Necip Fazıl Kısakürek Anadolu İmam Hatip Lisesi;İnegöl/Bursa;253;;Baykoca Mahallesi/İnegöl/Bursa;Lise;Mobilyacı;Ortaokul;Ev Hanımı;3;2,93
+75;Erkek;2001;185;70;42;Kahverengi ;Siyah;Adapazarı;Adapazarı;Sakarya;Sakarya Spor Lisesi;Adapazarı/Sakarya;350;46;Kemalpaşa Mahallesi/Serdivan/Sakarya;Lise;Demir Doğrama;Lise;Ev Hanımı;0;1,93
+76;Kadın;2001;157;48;38;Kahverengi ;Sarı;İstanbul;Sultanbeyli;İstanbul;Çekmeköy Toki Anadolu Lisesi;Çekmeköy/İstanbul;300;8;Abdurrahmangazi Mahallesi/Sancaktepe/İstanbul;Üniversite;Makine Mühendisi;Lise;Ev Hanımı;1;2,67
+77;Erkek;2000;178;80;44;Kahverengi ;Siyah;Tuzla Gözü Köyü;Kozluk ;Batman;Çorlu Anadolu İmam Hatip Lisesi;Çorlu/Tekirdağ;;;Kemalettin;İlkokul;İşçi;İlkokul;Sağ Değil;3;2,66
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
