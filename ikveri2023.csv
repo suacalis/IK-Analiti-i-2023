@@ -1,0 +1,301 @@
+Ad ve soyad,Cinsiyet,Departman,Kaynak,Mezuniyet,Yas Durumu,Aile durumu,Aylık Ücret,Mesai (TL),Ücret + Mesai,Mesai/Ücret+Mesai,İkamet,İkramiye,Giriş Tarihi
+Ayse Demir,K,Pazarlama,Online portal,Önlisans,21-25,Bekar,12600,3150,15750,20.00,İstanbul,4500,5/13/2017
+Tuba Derdiyok,K,Ar-Ge,Uni Fuar,Lisans,26-30,Evli ve 1 cocuk,25200,3450,28650,12.04,İstanbul,9000,8/7/2014
+Ahmet Ustun,E,Satış,Online portal,Lise,26-30,Evli ve 1 cocuk,11550,1500,13050,11.49,İstanbul,4125,8/24/2015
+Hakan Sezgin,E,Finans,Direk basvuru,Lisans,36-40,Evli ve 1 cocuk,35000,2550,37550,6.79,İstanbul,12500,9/8/2000
+Robert Johnson,E,İdare,Direk basvuru,Lise,41-45,Evli ve 2 cocuk,21000,2850,23850,11.95,İstanbul,7500,10/18/2000
+Ozge Ipek,E,Ar-Ge,Gazete/Dergi ilani,Y. Lisans,41-45,Evli ve 2 cocuk,63000,3300,66300,4.98,İstanbul,22500,12/7/2000
+Cem Ayhan,E,Pazarlama,Direk basvuru,Lise,26-30,Bekar,14000,2100,16100,13.04,İstanbul,5000,2/5/2016
+Aytac Dursun,E,Ar-Ge,Gazete/Dergi ilani,Lisans,46-50,Evli ve 2 cocuk,70000,750,70750,01.06,İstanbul,25000,8/7/1999
+Julia  Hegwood ,K,Satış,Direk basvuru,Lise,31-35,Evli ve 1 cocuk,15400,1500,16900,8.88,İstanbul,5500,8/24/2015
+Salih Gezdik,E,Finans,Direk basvuru,Lisans,36-40,Evli ve 2 cocuk,24500,2700,27200,9.93,İstanbul,8750,9/8/2009
+Melis Ay,K,İdare,Uni Fuar,Önlisans,46-50,Evli ve 2 cocuk,19600,1650,21250,7.76,İstanbul,7000,10/18/2000
+Davut Diyar,E,Ar-Ge,Gazete/Dergi ilani,Lisans,41-45,Evli ve 1 cocuk,29400,600,30000,2.00,İstanbul,10500,12/7/2001
+Kate Anderson,K,Satış,Referans/Tanidik,Önlisans,31-35,"Bosanmis, cocuk yok",12600,2100,14700,14.29,Kocaeli,4500,1/13/2015
+Abdullah Ozbulut,E,İdare,Direk basvuru,Önlisans,26-30,Bekar,11200,3600,14800,24.32,Kocaeli,4000,4/2/2016
+Berk Torun,E,Ar-Ge,Gazete/Dergi ilani,Doktora,41-45,Evli ve 1 cocuk,77000,300,77300,0.39,Kocaeli,27500,5/4/2003
+Huseyin Taskin,E,Satış,Referans/Tanidik,Lisans,26-30,Bekar,12600,1650,14250,11.58,Gebze,4500,5/10/2014
+Canan Gunes,K,Bilgi-İşlem,Uni Fuar,Lisans,31-35,Evli ve 1 cocuk,21000,2250,23250,9.68,Gebze,7500,6/23/2008
+Hakan Tel,E,Ar-Ge,Uni Fuar,Lisans,46-50,Evli ve 2 cocuk,26600,900,27500,3.27,Gebze,9500,9/18/2001
+Yavuz Koroglu,E,Muhasebe,Direk basvuru,Lisans,36-40,Evli ve 1 cocuk,18200,1950,20150,9.68,Gebze,6500,10/6/2001
+Merve Duyar,K,Ar-Ge,Direk basvuru,Lisans,41-45,Evli ve 1 cocuk,31500,1350,32850,4.11,İstanbul,11250,10/21/2001
+Ayse Kader,K,Bilgi-İşlem,Online portal,Lisans,36-40,Evli ve 1 cocuk,21700,600,22300,2.69,İstanbul,7750,10/22/2009
+Kubra Gezgin,K,Bilgi-İşlem,Online portal,Lisans,36-40,Evli ve 1 cocuk,18550,2100,20650,10.17,İstanbul,6625,10/24/2015
+Yesim Huzur,K,İnsan Kaynakları,Referans/Tanidik,Lisans,31-35,Evli ve 1 cocuk,22750,1200,23950,05.01,İstanbul,8125,11/23/2010
+Ali Bilir,E,İdare,Referans/Tanidik,Lisans,36-40,Evli ve 2 cocuk,14700,600,15300,3.92,İstanbul,5250,12/3/2011
+Mahmut Col,E,Bilgi-İşlem,Direk basvuru,Lisans,36-40,Evli ve 1 cocuk,23800,3150,26950,11.69,İstanbul,8500,12/21/2010
+Meryem Yeloglu,K,İdare,Referans/Tanidik,Lise,41-45,Evli ve 2 cocuk,19600,900,20500,4.39,İstanbul,7000,12/21/2001
+Hasan Teloglu,E,Müşteri hizmetleri,Referans/Tanidik,Lise,21-25,Bekar,12600,1350,13950,9.68,İstanbul,4500,12/24/2015
+Cemre Ketum,K,Pazarlama,Online portal,Lisans,26-30,Bekar,16800,2400,19200,12.50,İstanbul,6000,5/13/2012
+Cagdas Devrim,E,Ar-Ge,Uni Fuar,Y. Lisans,26-30,Evli ve 1 cocuk,49000,2850,51850,5.50,İstanbul,17500,8/7/2015
+Humeyra Semen,K,Satış,Referans/Tanidik,Lise,21-25,Bekar,14000,1200,15200,7.89,İstanbul,0,8/24/2016
+Kemal Bayburt,E,Finans,Direk basvuru,Lisans,26-30,Evli ve 1 cocuk,21000,1800,22800,7.89,İstanbul,7500,9/8/2014
+Hande Gur,K,İdare,Uni Fuar,Önlisans,65+,Bosanmis 3'ten fazla ,18200,900,19100,4.71,İstanbul,6500,10/18/1998
+Jale Kirmizi,K,Ar-Ge,Gazete/Dergi ilani,Lisans,46-50,Evli ve 1 cocuk,32200,1050,33250,3.16,İstanbul,11500,12/7/2000
+Lale Yelkovan,K,Satış,Online portal,Lise,26-30,Evli ve 1 cocuk,16800,3750,20550,18.25,Kocaeli,6000,1/13/2013
+Mehmet Durgun,E,İdare,Referans/Tanidik,Lise,36-40,Evli ve 2 cocuk,16100,1650,17750,9.30,Kocaeli,5750,4/2/2006
+Ali Kemal Mertek,E,Ar-Ge,Online portal,Doktora,36-40,Bekar,56000,750,56750,1.32,Kocaeli,20000,5/4/2012
+Hale Sonmez,K,Satış,Referans/Tanidik,Lisans,26-30,Bekar,14700,1500,16200,9.26,Gebze,5250,5/10/2013
+Eda Kum,K,Bilgi-İşlem,Direk basvuru,Lisans,36-40,Evli ve 1 cocuk,21000,1500,22500,6.67,Gebze,7500,6/23/2011
+Yeter Geroglu,E,Ar-Ge,Uni Fuar,Lisans,26-30,Evli ve 1 cocuk,27300,3450,30750,11.22,Gebze,9750,9/18/2012
+Muzaffer Tezcan,E,Muhasebe,Gazete/Dergi ilani,Lisans,31-35,Evli ve 1 cocuk,14700,3450,18150,19.01,Gebze,5250,10/6/2008
+Nurcan Aybek,K,Ar-Ge,Referans/Tanidik,Lisans,36-40,Evli ve 1 cocuk,29400,2550,31950,7.98,İstanbul,10500,10/21/2007
+Julide Tezkan,K,Bilgi-İşlem,Direk basvuru,Lisans,31-35,Evli ve 1 cocuk,18900,150,19050,0.79,İstanbul,6750,10/22/2013
+Fatma Cil,K,Bilgi-İşlem,Online portal,Lisans,36-40,Evli ve 2 cocuk,25200,600,25800,2.33,İstanbul,9000,10/24/2003
+Mesut Cakir,E,İnsan Kaynakları,Referans/Tanidik,Y. Lisans,26-30,Evli ve 1 cocuk,19250,3000,22250,13.48,İstanbul,6875,11/23/2014
+Ramazan Toy,E,İdare,Direk basvuru,Lisans,31-35,Evli ve 1 cocuk,12600,2550,15150,16.83,İstanbul,4500,12/3/2015
+Zehra Celik,K,Bilgi-İşlem,Uni Fuar,Lisans,26-30,Bekar,16800,1800,18600,9.68,İstanbul,6000,12/21/2015
+Hatice Sardic,K,İdare,Gazete/Dergi ilani,Lise,41-45,Evli ve 2 cocuk,18900,3450,22350,15.44,İstanbul,6750,12/21/2001
+Azat Duyar,E,Müşteri hizmetleri,Referans/Tanidik,Lise,21-25,Bekar,10500,900,11400,7.89,İstanbul,3750,12/24/2016
+Berkcan Cetin,E,Muhasebe,Online portal,Lisans,36-40,Evli ve 1 cocuk,14000,1950,15950,12.23,İstanbul,5000,1/3/2009
+Ismail Eskicioglu,E,Muhasebe,Online portal,Lisans,26-30,Bosanmis 3'ten fazla ,11900,3600,15500,23.23,İstanbul,4250,2/2/2014
+Husnu Taskin,E,Bilgi-İşlem,Referans/Tanidik,Y. Lisans,36-40,Evli ve 1 cocuk,19600,1500,21100,7.11,İstanbul,7000,2/8/2015
+Bilal Senoglu,E,Müşteri hizmetleri,Direk basvuru,Lisans,26-30,Bekar,14000,1650,15650,10.54,Gebze,5000,2/16/2014
+Kader Dag,K,İnsan Kaynakları,Uni Fuar,Lisans,31-35,Evli ve 1 cocuk,17500,1800,19300,9.33,Gebze,6250,7/5/2012
+Zubeyde Arslan,K,Pazarlama,Gazete/Dergi ilani,Lise,26-30,Evli ve 1 cocuk,12600,600,13200,4.55,İstanbul,4500,5/22/2015
+Cansu Yigit,K,Ar-Ge,Uni Fuar,Lisans,31-35,Evli ve 1 cocuk,27300,1350,28650,4.71,İstanbul,9750,8/7/2012
+Ceylan Kirmizi,K,Satış,Direk basvuru,Lise,26-30,Bekar,14000,600,14600,4.11,İstanbul,5000,8/24/2010
+Cemil Sim,E,Finans,Online portal,Doktora,36-40,Evli ve 2 cocuk,25200,1650,26850,6.15,İstanbul,9000,9/8/2015
+Semih Elmas,E,İdare,Referans/Tanidik,Lisans,36-40,Evli ve 1 cocuk,14700,1500,16200,9.26,İstanbul,5250,10/18/2012
+Sevval Ozyigit,K,Ar-Ge,Direk basvuru,Lisans,41-45,Evli ve 1 cocuk,29400,2400,31800,7.55,İstanbul,10500,12/7/2009
+Fuat Genc,E,Satış,Online portal,Önlisans,31-35,Evli ve cocuk yok,15400,150,15550,0.96,Kocaeli,5500,1/13/2010
+Esin Mor,K,İdare,Gazete/Dergi ilani,Lise,36-40,Evli ve 1 cocuk,16100,450,16550,2.72,Kocaeli,5750,4/2/2010
+Hale Kemgoz,K,Ar-Ge,Referans/Tanidik,Lisans,46-50,Evli ve 2 cocuk,28700,2250,30950,7.27,Kocaeli,10250,5/4/2009
+Emre Can,E,Satış,Online portal,Lisans,26-30,Bekar,16100,150,16250,0.92,Gebze,5750,5/10/2011
+Hediye Tendurek,K,Bilgi-İşlem,Online portal,Lisans,31-35,Evli ve 1 cocuk,16800,1500,18300,8.20,Gebze,6000,6/23/2015
+Murat Kirgin,E,Ar-Ge,Referans/Tanidik,Y. Lisans,41-45,Bosanmis 1 cocuk,59500,2850,62350,4.57,Gebze,21250,9/18/2008
+Hasan Pek,E,Muhasebe,Direk basvuru,Lisans,41-45,Evli ve 2 cocuk,17500,2400,19900,12.06,Gebze,6250,10/6/2001
+Recep Sergin,E,Ar-Ge,Uni Fuar,Lisans,46-50,Evli ve 2 cocuk,37800,2250,40050,5.62,İstanbul,13500,10/21/2001
+Melisa Kurt,K,Bilgi-İşlem,Gazete/Dergi ilani,Lisans,26-30,Bekar,14000,300,14300,2.10,İstanbul,5000,10/22/2017
+Hakan Yavas,E,Bilgi-İşlem,Direk basvuru,Önlisans,26-30,Bekar,15400,3600,19000,18.95,İstanbul,5500,10/24/2015
+Nermin Koz,K,İnsan Kaynakları,Referans/Tanidik,Önlisans,36-40,Evli ve 1 cocuk,17500,3450,20950,16.47,İstanbul,6250,11/23/2001
+Erdi Safak,E,İdare,Online portal,Lisans,41-45,Evli ve 2 cocuk,18900,3300,22200,14.86,İstanbul,6750,12/3/2001
+Alper Kucuk,E,Bilgi-İşlem,Referans/Tanidik,Lisans,41-45,Evli ve 3'ten fazla,17500,1950,19450,10.03,İstanbul,6250,12/21/2008
+Vural Tekin,E,İdare,Referans/Tanidik,Lisans,46-50,Evli ve 1 cocuk,16800,3150,19950,15.79,İstanbul,6000,12/21/2007
+Cumhur Sert,E,Müşteri hizmetleri,Referans/Tanidik,Önlisans,21-25,Bekar,12600,750,13350,5.62,İstanbul,4500,12/24/2017
+Vefa Tez,E,Muhasebe,Gazete/Dergi ilani,Lisans,31-35,Bekar,14000,3150,17150,18.37,İstanbul,5000,1/3/2012
+Suat Kay,E,Muhasebe,Referans/Tanidik,Lise,26-30,Evli ve cocuk yok,11900,1950,13850,14.08,İstanbul,4250,2/2/2015
+Burak Oz,E,Bilgi-İşlem,Gazete/Dergi ilani,Lisans,41-45,Bosanmis 2 cocuk,18200,900,19100,4.71,İstanbul,6500,2/8/2002
+Sinan Kerim,E,Müşteri hizmetleri,Online portal,Lise,26-30,Bekar,12600,1200,13800,8.70,Gebze,4500,2/16/2016
+Eset Gumus,E,İnsan Kaynakları,Referans/Tanidik,Önlisans,36-40,Evli ve 1 cocuk,14000,1050,15050,6.98,Gebze,5000,7/5/2012
+Gul Durmus,K,İdare,Referans/Tanidik,Lisans,41-45,Evli ve 2 cocuk,18200,150,18350,0.82,Sakarya,6500,1/16/2003
+Omer Serbest,E,İdare,Referans/Tanidik,Önlisans,36-40,Evli ve 1 cocuk,12600,1950,14550,13.40,Sakarya,4500,3/22/2013
+Yeliz Kilimci,K,Muhasebe,Online portal,Lise,26-30,Bekar,13300,3300,16600,19.88,Sakarya,4750,4/30/2013
+Banu Aslan,K,İnsan Kaynakları,Referans/Tanidik,Lise,36-40,Evli ve 1 cocuk,16100,600,16700,3.59,Sakarya,5750,5/29/2009
+Mehmet Ali Kabak,E,Muhasebe,Online portal,İlkokul,31-35,Evli ve cocuk yok,10500,1050,11550,09.09,Kocaeli,3750,7/21/2013
+Kemal Koc,E,İdare,Referans/Tanidik,Önlisans,36-40,Evli ve 1 cocuk,11900,150,12050,1.24,Kocaeli,4250,10/18/2014
+Aylin Cakmak,K,İdare,Referans/Tanidik,Lisans,31-35,Evli ve 1 cocuk,11900,750,12650,5.93,Gebze,4250,10/27/2016
+Aykut Temir,E,Bilgi-İşlem,Direk basvuru,Lisans,41-45,Evli ve 2 cocuk,17500,1950,19450,10.03,Gebze,6250,11/4/2003
+Serpil Cilingir,K,Finans,Uni Fuar,Önlisans,26-30,Evli ve 1 cocuk,19600,150,19750,0.76,Gebze,7000,11/7/2016
+Nurten Dilem,K,Pazarlama,Referans/Tanidik,Lise,31-35,Bekar,15400,3300,18700,17.65,Gebze,5500,11/27/2009
+Berrin Su,K,Satış,Online portal,Lise,26-30,Bekar,12600,2250,14850,15.15,İstanbul,4500,12/3/2013
+Ibrahim Arsan,E,Pazarlama,Online portal,Lise,26-30,Bekar,11900,600,12500,4.80,İstanbul,4250,12/4/2013
+Ayca Yeliz,K,Satış,Online portal,Doktora,36-40,"Bosanmis, cocuk yok",17500,3150,20650,15.25,İstanbul,6250,12/4/2013
+Fulya Mert,K,Finans,Referans/Tanidik,Lisans,36-40,Evli ve 1 cocuk,21000,3000,24000,12.50,İstanbul,7500,12/14/2014
+Serkan Uzum,E,Pazarlama,Online portal,Lise,26-30,Bekar,10500,3000,13500,22.22,İstanbul,3750,1/13/2017
+Busra Kiraz,K,Satış,Online portal,Önlisans,26-30,Evli ve cocuk yok,12600,2400,15000,16.00,İstanbul,4500,8/24/2016
+Ayhan Yildiz,E,Finans,Online portal,Lisans,31-35,Evli ve cocuk yok,23800,2850,26650,10.69,İstanbul,8500,9/8/2010
+Hatice Taskiran,K,İdare,Referans/Tanidik,Lise,31-35,Evli ve 1 cocuk,19600,1350,20950,6.44,İstanbul,7000,10/18/2001
+Bora Tunc,E,Ar-Ge,Uni Fuar,Lisans,36-40,Evli ve cocuk yok,30800,2250,33050,6.81,İstanbul,11000,12/7/2010
+Buse Deniz,K,Satış,Online portal,Lisans,31-35,Evli ve 1 cocuk,15400,2550,17950,14.21,Kocaeli,5500,1/13/2011
+Ayse Gemici,K,İdare,Referans/Tanidik,Y. Lisans,41-45,Evli ve 2 cocuk,18200,2250,20450,11.00,Kocaeli,6500,4/2/2001
+Tuba Ran,K,Ar-Ge,Direk basvuru,Lisans,36-40,Evli ve 2 cocuk,28000,1200,29200,4.11,Kocaeli,10000,5/4/2015
+Ahmet Kelepir,E,Satış,Uni Fuar,Önlisans,26-30,Bekar,13300,2700,16000,16.88,Gebze,4750,5/10/2015
+Hakan Siyam,E,Bilgi-İşlem,Gazete/Dergi ilani,Lisans,31-35,Evli ve 1 cocuk,13300,1050,14350,7.32,Gebze,4750,6/23/2012
+Robert Anderson,E,Muhasebe,Direk basvuru,Lise,41-45,Evli ve 2 cocuk,16100,2550,18650,13.67,Gebze,5750,10/6/2005
+Ozge Cevik,K,Ar-Ge,Online portal,Lisans,41-45,Evli ve 2 cocuk,36400,2550,38950,6.55,İstanbul,13000,10/21/2001
+Cem Nazar,E,Bilgi-İşlem,Online portal,Lisans,36-40,Evli ve 1 cocuk,14000,450,14450,3.11,İstanbul,5000,10/22/2011
+Aytac Metin,E,Bilgi-İşlem,Referans/Tanidik,Önlisans,51-55,Evli ve 3'ten fazla,16800,900,17700,05.08,İstanbul,6000,10/24/2001
+Julia  Heather,K,İnsan Kaynakları,Direk basvuru,Lisans,56-60,Evli ve 2 cocuk,25200,1800,27000,6.67,İstanbul,9000,11/23/2000
+Salih Mirza,E,İdare,Uni Fuar,Önlisans,61-65,Evli ve 2 cocuk,16800,1500,18300,8.20,İstanbul,6000,12/3/2001
+Melis Cicek,K,Bilgi-İşlem,Gazete/Dergi ilani,Önlisans,65+,Evli ve 2 cocuk,24500,1050,25550,4.11,İstanbul,8750,12/21/2000
+Davut Tanca,E,İdare,Referans/Tanidik,Lise,51-55,Evli ve 2 cocuk,18200,2550,20750,12.29,İstanbul,6500,12/21/2003
+Kate Gatekeeper,K,Müşteri hizmetleri,Referans/Tanidik,Lise,26-30,Bekar,13300,1500,14800,10.14,İstanbul,4750,12/24/2015
+Abdullah Tonguc,E,Muhasebe,Online portal,Lisans,36-40,Evli ve 1 cocuk,12600,2400,15000,16.00,İstanbul,4500,1/3/2014
+Berk Temiz,E,Muhasebe,Referans/Tanidik,Lisans,46-50,Evli ve 2 cocuk,18200,150,18350,0.82,İstanbul,6500,2/2/2002
+Huseyin Keles,E,Bilgi-İşlem,Direk basvuru,Lisans,36-40,Evli ve 1 cocuk,15400,1350,16750,08.06,İstanbul,5500,2/8/2015
+Canan Mezir,K,Müşteri hizmetleri,Uni Fuar,Önlisans,26-30,Bekar,15400,1650,17050,9.68,Gebze,5500,2/16/2014
+Hakan Tepsici,E,İnsan Kaynakları,Gazete/Dergi ilani,Önlisans,31-35,Evli ve 1 cocuk,16100,3000,19100,15.71,Gebze,5750,7/5/2009
+Yavuz Cakici,E,İdare,Referans/Tanidik,Lise,51-55,Evli ve 2 cocuk,19600,3150,22750,13.85,Sakarya,7000,1/16/2001
+Merve Bilge,K,İdare,Referans/Tanidik,Lisans,56-60,Evli ve 2 cocuk,19600,3450,23050,14.97,Sakarya,7000,3/22/2003
+Ayse Bilgin,K,Muhasebe,Online portal,Lisans,41-45,Evli ve 2 cocuk,17500,2850,20350,14.00,Sakarya,6250,4/30/2003
+Kubra Celenk,K,İnsan Kaynakları,Referans/Tanidik,Lisans,65+,Evli ve 2 cocuk,16100,3600,19700,18.27,Sakarya,5750,5/29/2013
+Yesim Kardelen,K,Muhasebe,Direk basvuru,Lisans,36-40,Evli ve 1 cocuk,16800,1500,18300,8.20,Kocaeli,6000,7/21/2004
+Ali Nalbant,E,İdare,Uni Fuar,Önlisans,46-50,Evli ve 2 cocuk,15400,900,16300,5.52,Kocaeli,5500,10/18/2003
+Mahmut Kesirlioglu,E,İdare,Gazete/Dergi ilani,Lise,36-40,Evli ve 1 cocuk,13300,3750,17050,21.99,Gebze,4750,10/27/2013
+Meryem Konak,K,Bilgi-İşlem,Online portal,Lisans,31-35,Evli ve 1 cocuk,14000,900,14900,06.04,Gebze,5000,11/4/2011
+Hasan Kanas,K,Finans,Referans/Tanidik,Lisans,36-40,Evli ve 1 cocuk,22400,750,23150,3.24,Gebze,8000,11/7/2013
+Cemre Bahceci,K,Pazarlama,Online portal,Lisans,61-65,Evli ve 2 cocuk,20300,900,21200,4.25,Gebze,7250,11/27/2003
+Selim Susam,E,Satış,Referans/Tanidik,Lise,31-35,Evli ve 1 cocuk,14000,150,14150,01.06,İstanbul,5000,12/3/2011
+Esra Kardes,K,Pazarlama,Direk basvuru,Lise,31-35,Bosanmis 1 cocuk,12600,3600,16200,22.22,İstanbul,4500,12/4/2013
+Halit Yaman,E,Satış,Uni Fuar,Önlisans,26-30,Bekar,14700,2550,17250,14.78,İstanbul,5250,12/4/2013
+Hande Gamze,K,Finans,Gazete/Dergi ilani,Lisans,41-45,Bosanmis 2 cocuk,32900,300,33200,0.90,İstanbul,11750,12/14/2003
+Jale Yesilova,K,Muhasebe,Online portal,Lise,31-35,Evli ve cocuk yok,11900,300,12200,2.46,Gebze,4250,4/27/2014
+Lale Kutup,K,İdare,Referans/Tanidik,Lise,41-45,Evli ve 1 cocuk,17500,900,18400,4.89,Sakarya,6250,5/24/2004
+Mehmet Dongel,E,Ar-Ge,Online portal,Lisans,51-55,Evli ve 2 cocuk,33600,3000,36600,8.20,Kocaeli,12000,6/7/2004
+Ali Kisayol,E,Pazarlama,Referans/Tanidik,Önlisans,26-30,Bekar,12600,300,12900,2.33,Gebze,4500,6/8/2014
+Bahriye Kestaneci,K,Finans,Direk basvuru,Lisans,36-40,Evli ve 1 cocuk,26600,3450,30050,11.48,İstanbul,9500,8/1/2012
+Eda Kilis,K,Bilgi-İşlem,Uni Fuar,Önlisans,36-40,"Bosanmis, cocuk yok",14700,2550,17250,14.78,İstanbul,5250,11/19/2004
+Ersin Ekrem,E,Ar-Ge,Gazete/Dergi ilani,Lisans,41-45,Evli ve 2 cocuk,32900,3450,36350,9.49,İstanbul,11750,11/22/2003
+Cengiz Katmer,E,Pazarlama,Online portal,Lise,61-65,Evli ve 2 cocuk,20300,3750,24050,15.59,İstanbul,7250,5/24/2000
+Nurcan Perviz,K,Satış,Direk basvuru,Lise,51-55,Evli ve 2 cocuk,19600,2100,21700,9.68,İstanbul,7000,8/24/2000
+Seda Hosgor,K,Finans,Online portal,Y. Lisans,41-45,Evli ve 1 cocuk,21000,3750,24750,15.15,İstanbul,7500,9/8/2015
+Fatma Kaya,K,İdare,Referans/Tanidik,Lise,41-45,Evli ve 2 cocuk,19600,2850,22450,12.69,İstanbul,7000,10/18/2000
+Mesut Set,E,Ar-Ge,Direk basvuru,Lisans,46-50,Evli ve 2 cocuk,35000,600,35600,1.69,İstanbul,12500,12/7/2000
+Recai Selam,E,Satış,Uni Fuar,Lisans,31-35,Evli ve cocuk yok,16100,1500,17600,8.52,Kocaeli,5750,1/13/2010
+Zehra Tuncbilek,K,Ar-Ge,Gazete/Dergi ilani,Lisans,46-50,Evli ve 2 cocuk,34300,1200,35500,3.38,Kocaeli,12250,5/4/2001
+Hatice Konuk,K,Satış,Referans/Tanidik,Lise,26-30,Bekar,13300,900,14200,6.34,Gebze,4750,5/10/2015
+Berat Koksal,E,Bilgi-İşlem,Online portal,Lisans,36-40,Evli ve 1 cocuk,12600,1050,13650,7.69,Gebze,4500,6/23/2013
+Berk Yildirim,E,Muhasebe,Online portal,Lise,61-65,Evli ve 2 cocuk,18900,2100,21000,10.00,Gebze,0,10/6/2001
+Ismail Ozdemir,E,Ar-Ge,Referans/Tanidik,Y. Lisans,41-45,Bosanmis 2 cocuk,62300,1200,63500,1.89,İstanbul,22250,10/21/2001
+Osman Cemil,E,Bilgi-İşlem,Direk basvuru,Lisans,41-45,Evli ve 1 cocuk,18900,300,19200,1.56,İstanbul,6750,10/22/2008
+Yusuf Senturk,E,İnsan Kaynakları,Uni Fuar,Önlisans,36-40,Evli ve 1 cocuk,15400,2550,17950,14.21,İstanbul,5500,11/23/2010
+Kader Dag,K,İdare,Referans/Tanidik,Lise,56-60,Evli ve 2 cocuk,20300,300,20600,1.46,İstanbul,7250,12/3/2001
+Zubeyde Simsek,K,Bilgi-İşlem,Gazete/Dergi ilani,Lisans,61-65,Evli ve 3'ten fazla,20300,450,20750,2.17,İstanbul,7250,12/21/2001
+Muzeyyen Taner,K,İdare,Referans/Tanidik,Lise,65+,Evli ve 1 cocuk,21000,1200,22200,5.41,İstanbul,7500,12/21/2000
+Ogun Ates,E,Müşteri hizmetleri,Online portal,Lise,31-35,Bekar,14700,3450,18150,19.01,İstanbul,5250,12/24/2013
+Kazim Erdem,E,Muhasebe,Referans/Tanidik,Önlisans,36-40,Bosanmis 1 cocuk,14700,3450,18150,19.01,İstanbul,5250,1/3/2004
+Sefa Avci,E,Muhasebe,Direk basvuru,Önlisans,41-45,Evli ve 2 cocuk,16100,300,16400,1.83,İstanbul,5750,2/2/2002
+Nihal Sen,K,Bilgi-İşlem,Uni Fuar,Lisans,31-35,Evli ve 1 cocuk,16800,1800,18600,9.68,İstanbul,6000,2/8/2012
+Onur Akkaya,E,İnsan Kaynakları,Gazete/Dergi ilani,Doktora,41-45,Evli ve 2 cocuk,19600,3450,23050,14.97,Gebze,7000,7/5/2013
+Derya Ozgur,K,İdare,Referans/Tanidik,Lise,41-45,Evli ve 1 cocuk,18900,2250,21150,10.64,Sakarya,6750,1/16/2003
+Aysegul Sepetci,K,İdare,Referans/Tanidik,Lise,46-50,Evli ve 2 cocuk,14700,1800,16500,10.91,Sakarya,5250,3/22/2009
+Emre Ceper,E,Muhasebe,Online portal,Lise,41-45,Bosanmis 1 cocuk,17500,3450,20950,16.47,Sakarya,6250,4/30/2003
+Seyma Kizgin,K,İnsan Kaynakları,Referans/Tanidik,Önlisans,36-40,Evli ve 1 cocuk,14000,1350,15350,8.79,Sakarya,5000,5/29/2013
+Murat Katip,E,Muhasebe,Direk basvuru,Önlisans,65+,Evli ve 2 cocuk,15400,2850,18250,15.62,Kocaeli,5500,7/21/2003
+Soner Pekdil,E,İdare,Referans/Tanidik,Lisans,65+,Evli ve 1 cocuk,21000,3750,24750,15.15,Kocaeli,7500,10/18/2000
+Recep Sarigazi,E,İdare,Gazete/Dergi ilani,Lise,46-50,Evli ve 2 cocuk,18200,3450,21650,15.94,Gebze,6500,10/27/2003
+Melis Simsek,K,Bilgi-İşlem,Online portal,Lisans,26-30,Bekar,14700,1350,16050,8.41,Gebze,5250,11/4/2015
+Hakan Yaver,E,Finans,Referans/Tanidik,Lisans,31-35,Evli ve cocuk yok,25900,1350,27250,4.95,Gebze,9250,11/7/2013
+Nermin Yeter,K,Pazarlama,Online portal,Lise,31-35,Evli ve 1 cocuk,11900,3450,15350,22.48,Gebze,4250,11/27/2013
+Erdi Hendek,E,Satış,Referans/Tanidik,Lisans,36-40,Evli ve 1 cocuk,14000,3750,17750,21.13,İstanbul,5000,12/3/2013
+Alper Kapak,E,Pazarlama,Direk basvuru,Lise,41-45,Evli ve 2 cocuk,18200,3600,21800,16.51,İstanbul,6500,12/4/2003
+Vural Sur,E,Satış,Uni Fuar,Önlisans,26-30,Bekar,13300,3600,16900,21.30,İstanbul,4750,12/4/2015
+Cumali Artvin,E,Finans,Gazete/Dergi ilani,Doktora,51-55,Bosanmis 2 cocuk,29400,1950,31350,6.22,İstanbul,10500,12/14/2003
+Vefa Hazirol,E,Muhasebe,Direk basvuru,Lise,46-50,Evli ve 2 cocuk,16800,1650,18450,8.94,Gebze,6000,4/27/2004
+Suavi Cetin,E,İdare,Referans/Tanidik,Lise,46-50,Evli ve 2 cocuk,17500,150,17650,0.85,Sakarya,6250,5/24/2004
+Burak Yaprak,K,Ar-Ge,Online portal,Lisans,65+,Bosanmis 3'ten fazla ,32200,450,32650,1.38,Kocaeli,11500,6/7/2004
+Sinan Omur,E,Pazarlama,Referans/Tanidik,Lise,41-45,Bekar,17500,3300,20800,15.87,Gebze,6250,6/8/2004
+Faruk Kirci,E,Finans,Direk basvuru,Lisans,21-25,Evli ve 1 cocuk,23100,1350,24450,5.52,İstanbul,8250,8/1/2017
+Gulbahar Komurcu,K,Bilgi-İşlem,Online portal,Önlisans,26-30,Evli ve 1 cocuk,15400,1350,16750,08.06,İstanbul,5500,11/19/2008
+Omer Guler,E,Ar-Ge,Gazete/Dergi ilani,Lisans,41-45,Evli ve 1 cocuk,29400,900,30300,2.97,İstanbul,10500,11/22/2008
+Yeliz Kiloglu,K,Muhasebe,Direk basvuru,Lise,36-40,Evli ve 1 cocuk,16100,2100,18200,11.54,Sakarya,5750,2/14/2005
+Banu Gok,K,Müşteri hizmetleri,Online portal,Lise,26-30,Evli,13300,2550,15850,16.09,Kocaeli,4750,3/4/2016
+Omer Faruk Koc,E,Ar-Ge,Online portal,Lisans,46-50,Evli ve 1 cocuk,31500,3300,34800,9.48,Gebze,11250,3/9/2005
+Kemal Sel,E,Bilgi-İşlem,Referans/Tanidik,Y. Lisans,51-55,Bosanmis 2 cocuk,25200,3600,28800,12.50,Gebze,9000,3/25/2005
+Aylin Cakir,K,Finans,Direk basvuru,Lisans,46-50,Evli ve 1 cocuk,30100,150,30250,0.50,İstanbul,10750,5/5/2005
+Aycan Tiz,E,Satış,Uni Fuar,Önlisans,31-35,Evli ve cocuk yok,16800,2400,19200,12.50,İstanbul,6000,5/20/2009
+Serpil Cumra,K,Muhasebe,Gazete/Dergi ilani,Lise,65+,Evli ve 1 cocuk,18200,3600,21800,16.51,İstanbul,6500,8/4/2000
+Nurten Eslem,K,İdare,Referans/Tanidik,Lise,46-50,Evli ve 2 cocuk,16800,1200,18000,6.67,İstanbul,6000,9/25/2005
+Berrin Yakar,K,Müşteri hizmetleri,Online portal,Lise,21-25,Bekar,11900,1950,13850,14.08,İstanbul,4250,2/19/2017
+Ibrahim Eksan,E,Ar-Ge,Online portal,Lisans,26-30,Bekar,24500,3150,27650,11.39,İstanbul,8750,12/21/2015
+Ayca Yelda,K,Pazarlama,Referans/Tanidik,Lise,46-50,Bekar,20300,1950,22250,8.76,İstanbul,7250,5/13/2000
+Fulya Terlioglu,K,Satış,Direk basvuru,Lisans,26-30,Evli ve 1 cocuk,16100,2400,18500,12.97,İstanbul,5750,8/24/2010
+Serkan Kalender,E,Finans,Direk basvuru,Lisans,41-45,Evli ve 2 cocuk,33600,3150,36750,8.57,İstanbul,12000,9/8/2000
+Busra Kimsesiz,K,İdare,Gazete/Dergi ilani,Lise,41-45,Evli ve 1 cocuk,20300,2550,22850,11.16,İstanbul,7250,10/18/2000
+Ayhan Yerli,E,Ar-Ge,Gazete/Dergi ilani,Lisans,51-55,Evli ve 2 cocuk,35000,2850,37850,7.53,İstanbul,12500,12/7/2000
+Hatice Tekil,K,Satış,Referans/Tanidik,Lise,26-30,Bekar,16100,1200,17300,6.94,Kocaeli,5750,1/13/2011
+Baran Koc,E,Ar-Ge,Online portal,Y. Lisans,65+,Evli ve 2 cocuk,63000,3000,66000,4.55,Kocaeli,22500,5/4/2000
+Buse Dertyetmez,K,Satış,Referans/Tanidik,Lise,26-30,Evli ve cocuk yok,15400,1350,16750,08.06,Gebze,5500,5/10/2012
+Hale Guler,K,Bilgi-İşlem,Direk basvuru,Lisans,31-35,Evli ve 1 cocuk,17500,150,17650,0.85,Gebze,6250,6/23/2011
+Emre Canik,E,Muhasebe,Uni Fuar,Lisans,31-35,Evli ve 1 cocuk,12600,2850,15450,18.45,Gebze,4500,10/6/2011
+Hediye Zeminci,K,Ar-Ge,Gazete/Dergi ilani,Lisans,26-30,Bekar,25200,3300,28500,11.58,İstanbul,9000,10/21/2014
+Murat Kirat,E,Bilgi-İşlem,Gazete/Dergi ilani,Lisans,46-50,Evli ve 2 cocuk,22400,900,23300,3.86,İstanbul,8000,10/22/2001
+Hasan Kuyucu,E,İnsan Kaynakları,Online portal,Önlisans,36-40,Evli ve 1 cocuk,14700,2250,16950,13.27,İstanbul,5250,11/23/2012
+Recep  Boz,E,İdare,Online portal,Lise,41-45,Evli ve cocuk yok,19600,1050,20650,05.08,İstanbul,7000,12/3/2001
+Melis Cingoz,K,Bilgi-İşlem,Referans/Tanidik,Lisans,46-50,Evli ve 1 cocuk,20300,3000,23300,12.88,İstanbul,7250,12/21/2004
+Hakan Yamaci,E,İdare,Direk basvuru,Lisans,51-55,Evli ve 2 cocuk,20300,3750,24050,15.59,İstanbul,7250,12/21/2001
+Nermin Korukcu,K,Müşteri hizmetleri,Uni Fuar,Önlisans,21-25,Bekar,14700,150,14850,01.01,İstanbul,5250,12/24/2015
+Erdi Kuyumcu,E,Muhasebe,Gazete/Dergi ilani,Lise,46-50,Evli ve 2 cocuk,16800,900,17700,05.08,İstanbul,6000,1/3/2002
+Alper Buyuk,E,Muhasebe,Referans/Tanidik,Lisans,65+,Evli ve 3'ten fazla,17500,2550,20050,12.72,İstanbul,6250,2/2/2002
+Vural Burcak,E,Bilgi-İşlem,Direk basvuru,Lisans,31-35,Evli ve 1 cocuk,12600,1950,14550,13.40,İstanbul,4500,2/8/2013
+Cumhur Sakin,E,İnsan Kaynakları,Online portal,Önlisans,31-35,Evli ve 1 cocuk,15400,1050,16450,6.38,Gebze,5500,7/5/2011
+Sefa Tezel,E,İdare,Referans/Tanidik,Lise,41-45,Evli ve 2 cocuk,18200,3750,21950,17.08,Sakarya,6500,1/16/2003
+Adnan Keman,E,İdare,Direk basvuru,Lisans,31-35,Evli ve cocuk yok,11900,1650,13550,12.18,Sakarya,4250,3/22/2013
+Burak Ozyurt,E,Muhasebe,Uni Fuar,Lisans,36-40,Evli ve 1 cocuk,11200,1500,12700,11.81,Sakarya,4000,4/30/2013
+Sinan Haldun,E,İnsan Kaynakları,Gazete/Dergi ilani,Doktora,41-45,Evli ve 2 cocuk,23100,2100,25200,8.33,Sakarya,8250,5/29/2003
+Sedat Civan,E,Muhasebe,Online portal,Önlisans,46-50,Evli ve 2 cocuk,15400,3600,19000,18.95,Kocaeli,5500,7/21/2003
+Gulnur Tuba,K,İdare,Referans/Tanidik,Önlisans,51-55,Evli ve 2 cocuk,14700,3300,18000,18.33,Kocaeli,5250,10/18/2004
+Omer Senkal,K,Bilgi-İşlem,Online portal,Y. Lisans,46-50,Evli ve 1 cocuk,26600,3750,30350,12.36,Gebze,9500,11/4/2003
+Yeliz Kilit,K,Finans,Referans/Tanidik,Lisans,61-65,Evli ve 2 cocuk,31500,2700,34200,7.89,Gebze,11250,11/7/2003
+Banu Eksam,K,Pazarlama,Direk basvuru,Lisans,65+,Bosanmis 2 cocuk,21700,600,22300,2.69,Gebze,7750,11/27/2000
+Mehmet Kap,E,Satış,Uni Fuar,Önlisans,36-40,Evli ve 1 cocuk,14000,3000,17000,17.65,İstanbul,5000,12/3/2013
+Kemal Katipoglu,E,Pazarlama,Gazete/Dergi ilani,Lise,21-25,Bekar,11900,1800,13700,13.14,İstanbul,4250,3/4/2017
+Aylin Yemisci,K,Satış,Referans/Tanidik,Lise,26-30,Bekar,14700,1050,15750,6.67,İstanbul,5250,12/4/2013
+Yusuf Hark,E,Finans,Direk basvuru,Lisans,31-35,Evli ve 1 cocuk,23100,1200,24300,4.94,İstanbul,8250,12/14/2015
+Serpil Basci,K,Muhasebe,Online portal,Lise,36-40,Evli ve 2 cocuk,11200,1050,12250,8.57,Gebze,4000,4/27/2014
+Dilara Tekel,K,Ar-Ge,Referans/Tanidik,Y. Lisans,41-45,Evli ve 1 cocuk,60200,2100,62300,3.37,Kocaeli,21500,6/7/2004
+Berrin Sumbul,K,Pazarlama,Direk basvuru,Lise,26-30,Evli ve 1 cocuk,13300,750,14050,5.34,Gebze,4750,6/8/2014
+Ibrahim Aksenel,E,Finans,Direk basvuru,Y. Lisans,36-40,Bosanmis 1 cocuk,21700,2850,24550,11.61,İstanbul,7750,8/1/2014
+Aynur Kapci,K,Bilgi-İşlem,Gazete/Dergi ilani,Doktora,56-60,Evli ve 1 cocuk,27300,600,27900,2.15,İstanbul,9750,11/19/2005
+Mujgan Hakan,K,Ar-Ge,Referans/Tanidik,Lisans,65+,Evli ve 2 cocuk,32200,3150,35350,8.91,İstanbul,11500,11/22/2004
+Serkan Umut,E,Muhasebe,Direk basvuru,Önlisans,65+,Evli ve cocuk yok,14000,1950,15950,12.23,Sakarya,5000,2/14/2005
+Nurten Yildiz,K,Müşteri hizmetleri,Online portal,Lise,21-25,Evli ve cocuk yok,13300,900,14200,6.34,Kocaeli,4750,3/4/2015
+Ayhan Gelbize,E,Ar-Ge,Referans/Tanidik,Y. Lisans,41-45,Evli ve 2 cocuk,21000,600,21600,2.78,Gebze,7500,3/9/2015
+Hatice Cabadak,K,Bilgi-İşlem,Direk basvuru,Lisans,26-30,Evli ve 1 cocuk,13300,900,14200,6.34,Gebze,4750,3/25/2015
+Bora Tekses,E,Finans,Online portal,Lisans,31-35,Evli ve 1 cocuk,22400,2250,24650,9.13,İstanbul,8000,5/5/2016
+Buse Dermanci,K,Satış,Gazete/Dergi ilani,Lise,31-35,"Bosanmis, cocuk yok",16800,300,17100,1.75,İstanbul,6000,5/20/2009
+Ayse Hekim,K,Muhasebe,Referans/Tanidik,Lise,41-45,Evli ve 1 cocuk,16100,2400,18500,12.97,İstanbul,5750,8/4/2005
+Tuba Cakir,K,İdare,Referans/Tanidik,Lise,46-50,Evli ve 2 cocuk,16800,1650,18450,8.94,İstanbul,6000,9/25/2005
+Ahmet Gul,E,Müşteri hizmetleri,Online portal,Lise,36-40,Evli ve 1 cocuk,18900,1950,20850,9.35,İstanbul,6750,10/19/2005
+Hakan Siper,E,Ar-Ge,Referans/Tanidik,Lisans,56-60,Evli ve 2 cocuk,31500,150,31650,0.47,İstanbul,11250,12/21/2005
+Robert McKenzi,E,Muhasebe,Direk basvuru,Lisans,61-65,Evli ve 2 cocuk,14700,3450,18150,19.01,İstanbul,5250,1/9/2006
+Ozge Calik,K,Bilgi-İşlem,Online portal,Önlisans,65+,Evli ve 2 cocuk,14000,2100,16100,13.04,Sakarya,5000,2/2/2006
+Cem Nimet,E,Ar-Ge,Gazete/Dergi ilani,Lisans,65+,Evli ve 3'ten fazla,30800,1500,32300,4.64,Kocaeli,11000,2/28/2006
+Aytac Cetin,E,Pazarlama,Direk basvuru,Lise,36-40,Evli ve 1 cocuk,18900,300,19200,1.56,Gebze,6750,3/1/2006
+Julia  Kimberly,K,Satış,Direk basvuru,Lise,26-30,Evli ve 1 cocuk,11900,1050,12950,8.11,Gebze,4250,4/2/2016
+Salih Tanir,E,İnsan Kaynakları,Online portal,Önlisans,36-40,Bosanmis 1 cocuk,18900,1650,20550,08.03,İstanbul,6750,4/17/2006
+Melis Zambak,K,Bilgi-İşlem,Referans/Tanidik,Lisans,36-40,Evli ve 1 cocuk,10500,600,11100,5.41,İstanbul,3750,5/6/2016
+Davut Ruzgar,E,Finans,Direk basvuru,Lisans,41-45,Evli ve 2 cocuk,29400,1350,30750,4.39,İstanbul,10500,8/11/2006
+Kate Johnson,K,Finans,Uni Fuar,Lisans,36-40,Evli ve 1 cocuk,26600,600,27200,2.21,İstanbul,9500,9/2/2010
+Abdullah Tekkan,E,Ar-Ge,Gazete/Dergi ilani,Lisans,51-55,Evli ve 1 cocuk,30100,750,30850,2.43,İstanbul,10750,11/16/2007
+Berk Kucuk,E,Finans,Direk basvuru,Lisans,46-50,Evli ve 2 cocuk,30800,3300,34100,9.68,İstanbul,11000,12/22/2000
+Huseyin Eliyatkin,E,Satış,Referans/Tanidik,Lise,26-30,Evli ve 1 cocuk,16100,1650,17750,9.30,İstanbul,5750,8/24/2000
+Canan Ulu,K,İdare,Online portal,Lise,65+,Evli ve 2 cocuk,20300,750,21050,3.56,İstanbul,7250,10/18/2000
+Hakan Usta,E,Ar-Ge,Referans/Tanidik,Y. Lisans,46-50,Evli ve 2 cocuk,31500,1350,32850,4.11,İstanbul,11250,12/7/2000
+Yavuz Binel,E,Satış,Direk basvuru,Önlisans,21-25,Bekar,11200,600,11800,05.08,Kocaeli,4000,1/13/2017
+Merve Birel,K,Ar-Ge,Uni Fuar,Lisans,46-50,Bosanmis 2 cocuk,34300,3750,38050,9.86,Kocaeli,12250,5/4/2001
+Ayse Bilgic,K,Satış,Gazete/Dergi ilani,Lise,31-35,Evli ve 1 cocuk,15400,150,15550,0.96,Gebze,5500,5/10/2001
+Kubra Gelmez,K,Bilgi-İşlem,Direk basvuru,Lisans,36-40,Evli ve cocuk yok,11200,3150,14350,21.95,Gebze,4000,6/23/2015
+Yesim Karamursel,K,Muhasebe,Direk basvuru,Önlisans,41-45,Evli ve 1 cocuk,16800,1200,18000,6.67,Gebze,6000,10/6/2001
+Ali Nail Keser,E,Ar-Ge,Online portal,Doktora,46-50,Evli ve 2 cocuk,80500,300,80800,0.37,İstanbul,28750,10/21/2001
+Mahmut Canan,E,Bilgi-İşlem,Referans/Tanidik,Önlisans,51-55,Evli ve 1 cocuk,17500,1500,19000,7.89,İstanbul,6250,10/22/2001
+Meryem Karaali,K,İnsan Kaynakları,Direk basvuru,Önlisans,26-30,Bekar,16800,3300,20100,16.42,İstanbul,6000,11/23/2014
+Hasan Bahcecicik,E,İdare,Uni Fuar,Önlisans,65+,Evli ve 2 cocuk,16800,600,17400,3.45,İstanbul,6000,12/3/2001
+Cemre Lal,K,Bilgi-İşlem,Gazete/Dergi ilani,Lisans,65+,Evli ve 3'ten fazla,20300,3750,24050,15.59,İstanbul,7250,12/21/2001
+Selim Sakin,K,İdare,Referans/Tanidik,Önlisans,41-45,Evli ve 1 cocuk,16100,3000,19100,15.71,İstanbul,5750,12/21/2002
+Esra Guzel,K,Müşteri hizmetleri,Online portal,Lise,21-25,Evli ve 1 cocuk,11200,2100,13300,15.79,İstanbul,4000,2/24/2016
+Halit Kardas,E,Muhasebe,Online portal,Önlisans,36-40,Evli ve 1 cocuk,13300,2850,16150,17.65,İstanbul,4750,1/3/2012
+Hande Yelkenli,K,Muhasebe,Referans/Tanidik,Önlisans,41-45,Evli ve 2 cocuk,17500,3000,20500,14.63,İstanbul,6250,2/2/2000
+Jale Dilova,K,Bilgi-İşlem,Direk basvuru,Lisans,46-50,Evli ve 2 cocuk,19600,3450,23050,14.97,İstanbul,7000,2/8/2002
+Lale Kurkcu,K,İnsan Kaynakları,Uni Fuar,Önlisans,31-35,Evli ve 1 cocuk,18200,2400,20600,11.65,Gebze,6500,7/5/2012
+Mehmet Yurekci,E,İdare,Gazete/Dergi ilani,Lise,46-50,Evli ve 2 cocuk,18200,2100,20300,10.34,Sakarya,6500,1/16/2003
+Ali Sumerli,E,İdare,Referans/Tanidik,Lisans,51-55,Evli ve 1 cocuk,18900,1800,20700,8.70,Sakarya,6750,3/22/2003
+Bahar Urfali,K,İnsan Kaynakları,Referans/Tanidik,Önlisans,65+,Bosanmis 1 cocuk,23800,3600,27400,13.14,Sakarya,8500,5/29/2003
+Eda Antep,K,Muhasebe,Online portal,Önlisans,65+,Evli ve 2 cocuk,16100,1500,17600,8.52,Kocaeli,5750,7/21/2003
+Ersin Kurtcuoglu,E,İdare,Referans/Tanidik,Lisans,46-50,Evli ve 1 cocuk,18200,150,18350,0.82,Kocaeli,6500,10/18/2004
+Cengiz Sakli,E,Bilgi-İşlem,Direk basvuru,Lisans,46-50,Evli ve 2 cocuk,18900,1050,19950,5.26,Gebze,6750,11/4/2003
+Nurcan Eliyanmaz,K,Finans,Uni Fuar,Lisans,21-25,Evli ve 1 cocuk,19600,3450,23050,14.97,Gebze,7000,11/7/2016
+Seda Aksi,K,Pazarlama,Gazete/Dergi ilani,Lise,26-30,Evli ve 1 cocuk,14000,3750,17750,21.13,Gebze,5000,11/27/2013
+Fatma Kardan,K,Satış,Direk basvuru,Lise,31-35,Evli ve 1 cocuk,9800,3300,13100,25.19,İstanbul,3500,12/3/2013
+Mesut Husrev,E,Pazarlama,Direk basvuru,Lise,26-30,Bekar,12600,2400,15000,16.00,İstanbul,4500,4/4/2017
+Recai Rencber,E,Satış,Online portal,Önlisans,36-40,Evli ve 1 cocuk,12600,2850,15450,18.45,İstanbul,4500,12/4/2015
+Zehra Faal,K,Finans,Referans/Tanidik,Lisans,46-50,Evli ve 1 cocuk,26600,3150,29750,10.59,İstanbul,9500,12/14/2003
+Hatice Atar,K,Muhasebe,Direk basvuru,Lisans,65+,Bosanmis 2 cocuk,16100,900,17000,5.29,Gebze,5750,4/27/2004
+Berat Konargocer,E,Ar-Ge,Uni Fuar,Lisans,46-50,Evli ve 2 cocuk,32200,3750,35950,10.43,Kocaeli,11500,6/7/2004
+Berke Binali,E,Pazarlama,Gazete/Dergi ilani,Lise,31-35,Evli ve cocuk yok,14000,3600,17600,20.45,Gebze,5000,6/8/2013
+Ismail Zumrut,E,Finans,Online portal,Lisans,41-45,Evli ve 1 cocuk,25900,600,26500,2.26,İstanbul,9250,8/1/2004
+Osman Canayakin,E,Bilgi-İşlem,Direk basvuru,Lisans,41-45,Evli ve 1 cocuk,18200,1350,19550,6.91,İstanbul,6500,11/19/2004
+Yusuf Senal,E,Ar-Ge,Online portal,Y. Lisans,46-50,Evli ve 1 cocuk,30800,2400,33200,7.23,İstanbul,4000,11/22/2004
+Kader Vakarli,K,Muhasebe,Referans/Tanidik,Önlisans,41-45,Evli ve 2 cocuk,14700,3300,18000,18.33,Sakarya,5250,2/14/2005
+Zubeyde Senocak,K,Müşteri hizmetleri,Direk basvuru,Lise,31-35,"Bosanmis, cocuk yok",17500,1350,18850,7.16,Kocaeli,6250,3/4/2005
+Muzeyyen Tarakli,K,Ar-Ge,Uni Fuar,Lisans,31-35,Bekar,26600,1950,28550,6.83,Gebze,9500,3/9/2013
+Ogun Sat,E,Finans,Gazete/Dergi ilani,Lisans,31-35,Bekar,20300,1800,22100,8.14,İstanbul,7250,5/5/2012
+Kazim Meka,E,Satış,Online portal,Lisans,65+,Evli ve 2 cocuk,19600,1200,20800,5.77,İstanbul,7000,5/20/2005
+Sefa Akgoz,E,Muhasebe,Online portal,Önlisans,51-55,Evli ve 1 cocuk,18200,2550,20750,12.29,İstanbul,6500,8/4/2000
+Nihal Umran,K,İdare,Online portal,Önlisans,56-60,Evli ve 1 cocuk,14700,1500,16200,9.26,İstanbul,0,9/25/2005
+Onur Kasvetli,E,Müşteri hizmetleri,Referans/Tanidik,Lisans,65+,Evli ve 2 cocuk,19600,600,20200,2.97,İstanbul,7000,10/19/2005
+Derya Ozgec,K,Ar-Ge,Direk basvuru,Lisans,65+,Evli ve 3'ten fazla,32200,300,32500,0.92,İstanbul,11500,12/21/2005
+Aysen Gogebakar,K,Muhasebe,Uni Fuar,Önlisans,46-50,Evli ve 1 cocuk,14000,1800,15800,11.39,İstanbul,5000,1/9/2006
+Esref Pusat,E,Bilgi-İşlem,Gazete/Dergi ilani,Lisans,41-45,Evli ve 1 cocuk,16800,3150,19950,15.79,Sakarya,6000,2/2/2006
+Aybuke Yilmaz,K,Ar-Ge,Gazete/Dergi ilani,Lisans,65+,Bosanmis 1 cocuk,31500,900,32400,2.78,Kocaeli,11250,2/28/2006
