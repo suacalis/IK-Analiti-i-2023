@@ -8,8 +8,8 @@ import pandas as pd
 
 st.title("Anahtar Kelime Eşleme ve Benzerlik Analizi")
 
-job_posting_file = st.file_uploader("İş İlanınızı Yükleyin")
-course_description_file = st.file_uploader("Ders İçeriğini Yükleyin")
+job_posting_file = st.file_uploader("İş İlanınızı Yükleyiniz (txt formatında)")
+course_description_file = st.file_uploader("CV Yükleyiniz (txt formatında)")
 
 if job_posting_file is not None and course_description_file is not None:
     job_posting = job_posting_file.read().decode('utf-8')
