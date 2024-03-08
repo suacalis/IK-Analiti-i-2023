@@ -1,0 +1,21 @@
+﻿ID,Ad Soyad,Pozisyon,Birim,Yaş,Kıdem,Şehir,Cinsiyet,Eğitim,Statü,Engelli D.,Performans,Ic_Musteri_Skoru,Dis_Musteri_Skoru
+1,Ahmet Doğan,IK Analisti,İnsan Kaynakları,18,16,İstanbul,Erkek,Lisans,Aktif,Evet,75,45,100
+2,Mehmet Çelik,IK Analisti,İnsan Kaynakları,57,24,Edirne,Erkek,Lisans,Aktif,Hayır,65,44,50
+3,Ayşe Demir,IK Analisti,İnsan Kaynakları,38,7,İstanbul,Kadın,Lisans,Aktif,Hayır,50,87,40
+4,Fatma Yay,IK Analisti,İnsan Kaynakları,53,6,Ankara,Kadın,Lisans,Aktif,Hayır,40,32,40
+5,Doğan Özçelik,IK Analisti,İnsan Kaynakları,21,18,İstanbul,Erkek,Lisans,Aktif,Hayır,100,66,40
+6,Sevim Hak,IK Analisti,İnsan Kaynakları,31,6,İstanbul,Kadın,Lisans,Aktif,Hayır,98,69,100
+7,Ayla Eğilmez,IK Analisti,İnsan Kaynakları,38,11,Ankara,Kadın,Lise,Aktif,Hayır,25,88,32
+8,Aysu Ses,İşe Alım Uzmanı,İnsan Kaynakları,65,7,Edirne,Kadın,Ortaokul,Aktif,Hayır,67,40,66
+9,Ayça Deniz,İşe Alım Uzmanı,İnsan Kaynakları,63,25,İstanbul,Kadın,Lisans,Pasif,Hayır,98,100,65
+10,Behçet Mert,İşe Alım Uzmanı,İnsan Kaynakları,22,8,İstanbul,Erkek,Lisans,Aktif,Evet,45,32,50
+11,Cahit Sarp,İşe Alım Uzmanı,İnsan Kaynakları,33,13,İstanbul,Erkek,Lisans,Aktif,Evet,44,66,45
+12,Mahmut Doğan,İşe Alım Uzmanı,İnsan Kaynakları,18,3,Ankara,Erkek,Lise,Aktif,Hayır,87,69,44
+13,Mehmet Yay,İşe Alım Uzmanı,İnsan Kaynakları,21,3,İstanbul,Erkek,Lisans,Aktif,Hayır,32,75,87
+14,Ahmet Özçelik,Özlük Uzmanı,İnsan Kaynakları,44,21,İstanbul,Erkek,Lisans,Aktif,Hayır,66,65,32
+15,İsmet Ses,Özlük Uzmanı,İnsan Kaynakları,48,20,İstanbul,Erkek,Ortaokul,Aktif,Evet,69,50,66
+16,Hikmet Tekdemir,Çalışan İlişkileri,İnsan Kaynakları,42,9,İzmir,Erkek,Lisans,Aktif,Hayır,88,40,69
+17,Haydar Seren,BT Uzmanı,Bilgi Teknolojiler,43,23,İzmir,Erkek,Lisans,Pasif,Hayır,95,40,88
+18,Ayşe Dere,BT Uzmanı,Bilgi Teknolojiler,51,17,İstanbul,Kadın,Lise,Aktif,Hayır,92,100,40
+19,Hande Boz,Çalışan İlişkileri,İnsan Kaynakları,53,14,İstanbul,Kadın,Lisans,Aktif,Evet,25,32,100
+20,Halil Bozdemir,Çalışan İlişkileri,İnsan Kaynakları,19,13,İzmir,Erkek,Lisans,Aktif,Hayır,10,66,32
