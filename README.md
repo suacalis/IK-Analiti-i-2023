@@ -1,1 +1,1 @@
-# IK-Analitigi-2023 ders 
+# IK-Analitigi-2025 dersi
